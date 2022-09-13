@@ -1,4 +1,4 @@
-# BW Visual Scout Control
+# BW Visual Stats Control
 
 Projeto utilizado para aplicar os conhecimentos obtidos no curso "React com Javascript" da Alura
 
