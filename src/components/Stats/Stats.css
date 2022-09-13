@@ -1,0 +1,29 @@
+.stats {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0 8px
+}
+
+.stats button {
+  border: none;
+  padding: 8px;
+  margin: 0 8px;
+  font-size: 16px;
+  border-radius: 24px;
+  cursor: pointer;
+}
+
+.stats h6 {
+  padding: 0 12px;
+  font-size: 12px;
+  line-height: 6px
+}
+
+.menos {
+  background: #FF4500
+}
+
+.mais {
+  background: #3CB371
+}

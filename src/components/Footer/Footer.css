@@ -1,0 +1,9 @@
+.footer {
+  background-color: #47AAC0;
+  text-align: center
+}
+
+.footer img {
+  /*tornar a imagem responssível*/
+  max-width: 100%
+}
